@@ -87,6 +87,12 @@ public class HelloBasic1 {
         text = result + "";
         System.out.println(text);
 
+        // Java15 以降( テキストブロック )
+        text = """
+        <input type="text"> c:\\app\\java21
+""";
+        System.out.println(text);
+
     }
 
 }
