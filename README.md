@@ -20,3 +20,22 @@ String
 128
 128
 ```
+## HelloBasic1.cs
+```
+16
+16
+System.Double
+System.Int32
+System.String
+System.String
+True
+一致します
+一致しない
+128
+128
+129
+129
+            <input type="text"> c:\app\java21
+
+129
+```
