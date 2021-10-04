@@ -1,10 +1,11 @@
-﻿using System;
+using System;
 
 namespace basic
 {
     class HelloBasic1
     {
-        static void Main(string[] args)
+        // basic.HelloBasic1._Main(new string[1]);
+        public static void _Main(string[] args)
         {
             int a = 16;
             Console.WriteLine (a);
