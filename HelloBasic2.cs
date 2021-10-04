@@ -1,10 +1,11 @@
-﻿using System;
+using System;
 
 namespace array
 {
     class HelloBasic2
     {
-        static void Main(string[] args)
+        // basic.HelloBasic2._Main(new string[1]);
+        public static void _Main(string[] args)
         {
             // 5つのデータを格納可能な配列を作成する
             int[] data = new int[5];
