@@ -40,3 +40,22 @@ True
 
 129
 ```
+
+## Program.cs
+```cs
+using System;
+
+namespace cs_1004
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.WriteLine("Hello World!");
+
+            basic.HelloBasic1._Main(new string[1]);
+            array.HelloBasic2._Main(new string[1]);
+        }
+    }
+}
+```
